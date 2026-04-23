@@ -1,16 +1,22 @@
-## Hi there 👋
+# Simon
 
-<!--
-**Simon-Canonical/Simon-Canonical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System architect focused on deterministic systems, correctness, and state integrity.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- event-sourced system design
+- convergence-based correctness models
+- deterministic reconstruction of state
+- systems where correctness matters more than convenience
+
+## Work
+
+- [system-models](https://github.com/Simon-Canonical/system-models)
+
+## Context
+
+I design systems where:
+
+- conflicting state is unacceptable
+- correctness must be provable
+- state must be reproducible from a single source of truth
